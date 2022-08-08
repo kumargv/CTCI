@@ -1,1 +1,1 @@
-This is a directory with scripts for the exercises in Cracking the Coding Interview. This is not complete and I add to it when I have time to practice.
+This is a directory with scripts in Python for different exercises from Cracking the Coding Interview as well as Amazon Online Assessment and Hathaways Online Assessment
