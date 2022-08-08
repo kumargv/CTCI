@@ -1,0 +1,1 @@
+This is my first time writing a Flask API so, I read up as I worked on this assessment. I have written couple of tests, but I wasn't able to complete them as I am working today. Please let me know if I have to add any information.
